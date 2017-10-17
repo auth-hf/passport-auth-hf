@@ -1,0 +1,31 @@
+{
+  "name": "passport-auth-hf",
+  "version": "1.0.0",
+  "description": "A PassportJS authentication strategy for authenticating users via Auth HF.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auth-hf/passport-auth-hf.git"
+  },
+  "keywords": [
+    "passport",
+    "passport-js",
+    "auth-hf",
+    "hf",
+    "hack",
+    "hackforums",
+    "hack-forums"
+  ],
+  "author": "Tobe O <thosakwe@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/auth-hf/passport-auth-hf/issues"
+  },
+  "homepage": "https://github.com/auth-hf/passport-auth-hf#readme",
+  "dependencies": {
+    "passport-oauth2": "^1.4.0"
+  }
+}
